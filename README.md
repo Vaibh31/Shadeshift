@@ -61,7 +61,7 @@ ShadeShift/
 └── README.md
 ```
 
-## 📸 Features Preview
+## Features Preview
 
 - Random HEX Color Generator
 - Custom Multi-Color Gradient Creator
@@ -72,7 +72,7 @@ ShadeShift/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Export palettes as JSON
 - Save history using Local Storage
