@@ -1,7 +1,4 @@
 # Shadeshift
-Interactive color generator featuring custom gradients, suggestions, and color history.
-
-
 Shadeshift is a modern and interactive color generator built with HTML, CSS, and JavaScript. It allows users to instantly generate random solid colors, create custom gradients, copy color codes with one click, maintain a color history, and discover beautiful gradient suggestions.
 
 ## 🚀 Features
