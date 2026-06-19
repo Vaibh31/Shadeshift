@@ -52,11 +52,14 @@ Shadeshift is a modern and interactive color generator built with HTML, CSS, and
 ---
 
 ## 📂 Project Structure
-project-folder/
+
+```
+ShadeShift/
 │
 ├── index.html
 ├── script.js
 └── README.md
+```
 
 ## 📸 Features Preview
 
