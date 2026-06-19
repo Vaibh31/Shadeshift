@@ -3,7 +3,7 @@ Shadeshift is a modern and interactive color generator built with HTML, CSS, and
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/ShadeShift/
+🔗 https://vaibh31.github.io/Shadeshift/
 
 ## 🚀 Features
 
